@@ -1,3 +1,3 @@
 # YouTubeDownloader
-使用chatgpt做的一個簡單的youtube轉換器，可以下載mp4或是mp3
+使用chatgpt做的一個簡單的youtube轉換器，可以下載mp4或是mp3，
 提供開源程式碼以及打包好的exe檔作使用
